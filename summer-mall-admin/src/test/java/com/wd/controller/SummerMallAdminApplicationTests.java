@@ -1,4 +1,4 @@
-package com.wd.summermalladmin;
+package com.wd.controller;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
